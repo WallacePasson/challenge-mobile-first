@@ -86,6 +86,7 @@ main p{
 .card{
     position: relative;
     font-family: var(--ff-heading);
+    margin: 2.5rem;
 }
 
 .card h2{
